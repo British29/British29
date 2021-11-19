@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @British29
+- 👋 Hi, I’m Dje Bi Odilon
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning flutter
 - 📫 How to reach me odilondjebi@gmail.com
