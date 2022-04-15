@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dje Bi Odilon
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in mobile and web development
+- 🌱 I’m currently learning flutter(Dart) and Angular
 - 📫 How to reach me odilondjebi@gmail.com
 
 <!---
